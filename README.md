@@ -1,5 +1,11 @@
 # Banking-EDA
 
+<img width="1683" height="943" alt="image" src="https://github.com/user-attachments/assets/5c12fd59-bb75-47b3-8227-6d307a75765f" />
+<img width="1681" height="946" alt="image" src="https://github.com/user-attachments/assets/f94ecfb7-80bb-47dc-afc6-fc0b1470aadc" />
+<img width="1683" height="942" alt="image" src="https://github.com/user-attachments/assets/7f823483-441f-43eb-be73-77c96a33720d" />
+<img width="1684" height="945" alt="image" src="https://github.com/user-attachments/assets/87c40712-ccbc-42fd-bd95-e42efa2b3c29" />
+<img width="1684" height="947" alt="image" src="https://github.com/user-attachments/assets/beaf192d-bf4a-4edf-87ca-1edf4988629e" />
+
 ## 📌 Overview  
 This project demonstrates an end-to-end data analysis workflow for the banking domain using:
 - **Python** for data cleaning, transformation, and exploratory analysis
@@ -44,13 +50,13 @@ Dashboard includes:
 - Currency normalization using DAX
 - Interactive filters and slicers
 
-  EDA Highlights in Python:
+EDA Highlights in Python:
 - Visualize interest rate distributions
 - Analyze delayed payments by age
 - Correlation heatmap for numeric features
 - Segment customers by transaction patterns
 
-  Objectives Achieved
+Objectives Achieved
 - Built a relational database for banking data
 - Cleaned and analyzed customer behavior in Python
 - Created an interactive dashboard to visualize key banking metrics
