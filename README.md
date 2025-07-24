@@ -4,7 +4,7 @@
 <img width="1681" height="946" alt="image" src="https://github.com/user-attachments/assets/f94ecfb7-80bb-47dc-afc6-fc0b1470aadc" />
 <img width="1683" height="942" alt="image" src="https://github.com/user-attachments/assets/7f823483-441f-43eb-be73-77c96a33720d" />
 <img width="1684" height="945" alt="image" src="https://github.com/user-attachments/assets/87c40712-ccbc-42fd-bd95-e42efa2b3c29" />
-<img width="1684" height="947" alt="image" src="https://github.com/user-attachments/assets/beaf192d-bf4a-4edf-87ca-1edf4988629e" />
+<img width="1682" height="944" alt="image" src="https://github.com/user-attachments/assets/9b48ce10-d8f4-4a78-aa5e-7a00c09ff6ae" />
 
 ## 📌 Overview  
 This project demonstrates an end-to-end data analysis workflow for the banking domain using:
